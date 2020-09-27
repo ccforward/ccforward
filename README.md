@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+![https://github-readme-stats.vercel.app/api?username=ccforward&hide=contribs&show_icons=true&theme=vue&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ccforward&hide=contribs&show_icons=true&theme=vue&include_all_commits=true)
 
 <!--
 **ccforward/ccforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
