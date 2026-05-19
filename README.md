@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![https://github-readme-stats.vercel.app/api?username=ccforward&hide=contribs&show_icons=true&theme=vue&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=ccforward&hide=contribs&show_icons=true&theme=vue&include_all_commits=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ccforward?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **ccforward/ccforward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
